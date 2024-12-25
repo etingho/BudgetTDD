@@ -102,3 +102,4 @@ C:\2_OneLab_Workspace\Learning\91_TDD_20241225\BudgetTDD\Budget\obj\Debug\net8.0
 C:\2_OneLab_Workspace\Learning\91_TDD_20241225\BudgetTDD\Budget\obj\Debug\net8.0\Budget.pdb
 C:\2_OneLab_Workspace\Learning\91_TDD_20241225\BudgetTDD\Budget\obj\Debug\net8.0\Budget.genruntimeconfig.cache
 C:\2_OneLab_Workspace\Learning\91_TDD_20241225\BudgetTDD\Budget\obj\Debug\net8.0\ref\Budget.dll
+C:\2_OneLab_Workspace\Learning\91_TDD_20241225\BudgetTDD\Budget\obj\Debug\net8.0\Budget.sourcelink.json
